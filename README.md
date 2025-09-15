@@ -1,14 +1,6 @@
-<h1 align="center">Hey JUET's ! What's Up?</h1>
-###
+<h1 align="center">Hey JUET's ! What's Up? I am Kabeer</h1>
 
-<p align="center">I am Kabeer</p>
-
-###
-###
-
-<p align="center">Aspiring Software Developer | Engineering Student at JUET | Building Real-World Solutions with Code"</p>
-
-###
+<h3 align="center">Aspiring Software Developer | Engineering Student at JUET | Building Real-World Solutions with Code"</h3>
 ###
 
 <div align="center">
