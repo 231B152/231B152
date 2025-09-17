@@ -1,5 +1,5 @@
 <h1 align="center">Hey JUET's! What's Up? </h1>
-<h2 align="center">I am Kabeer </h2>
+<h2 align="center">I am Kabeer (kabi)</h2>
 <IMG SRC="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">.
 <h3 align="center">Aspiring Software Developer | Engineering Student at JUET | Building Real-World Solutions with Code"</h3>
 <div align="center">
